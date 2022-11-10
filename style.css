@@ -8,12 +8,12 @@ header, footer {
 
 }
 
-logo{
+.logo{
 	width: 200px;
 	height: 200px;
 }
 
-menu{
+.menu{
 position: absolute;
 top: 60px;
 right: 90px;
