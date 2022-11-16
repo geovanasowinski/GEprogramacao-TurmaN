@@ -7,7 +7,19 @@ header, footer {
 	image-orientation: from-image;
 
 }
+h1,h2,h3{
+	margin: 10px;
+	padding: 10pix;
+	font-size: 1.5 em;
+	font-weight: bold;
 
+}
+
+p {
+
+	margin: 4px;
+	padding: 4px;
+}
 .logo{
 	width: 200px;
 	height: 200px;
